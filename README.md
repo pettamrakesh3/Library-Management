@@ -59,7 +59,7 @@ It having the fallowing Functions.
 
 Follow the on-screen instructions to interact with the library management system. You can add and remove books, manage patrons, borrow and return books, and display information about the library.
 
-- ![Images]("images/2.png")
+- ![Images]("./images/2.png")
 
 
 
