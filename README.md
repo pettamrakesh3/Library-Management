@@ -14,8 +14,7 @@ This is a simple Java program implementing a library management system. It allow
 
 The library management system consists of three main classes: `patron`, `patronManagement`, and various book classes (`Book`, `FictionBook`, `NonFictionBook`). Patrons can borrow and return books, and the system maintains a list of available books and patrons.
 
-It having the fallowing Functions.<br>
-Choose any option in managing Library System <br/>
+It having the fallowing Functions.
 <br/>
 <br/>
 1.Add a new book. <br/>
