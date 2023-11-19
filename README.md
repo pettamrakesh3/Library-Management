@@ -1,11 +1,20 @@
-# Library-Management
+# Library Management System
 
-Steps to Implement this Java Program<br/>
-<br/>
-<b>1</b> Install JDK in your Systems <br/>
-<b>2</b> Run this Java program using the following Commands: <br/>
-<b> javac fileName.java </b>(<b>Example</b> Library.java)<br/>
-<b> java Library </b>
+This is a simple Java program implementing a library management system. It allows users to add and remove books, manage patrons, borrow and return books, and displays information about available books and patrons.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Overview
+
+The library management system consists of three main classes: `patron`, `patronManagement`, and various book classes (`Book`, `FictionBook`, `NonFictionBook`). Patrons can borrow and return books, and the system maintains a list of available books and patrons.
+
+It having the fallowing Functions.<br>
 Choose any option in managing Library System <br/>
 <br/>
 <br/>
@@ -18,23 +27,6 @@ Choose any option in managing Library System <br/>
 7. Borrow a book (select patron, then select book).<br/>
 8. Return a book (select patron, then select book). <br/>
 9. Exit the program.<br/>
-
-# Library Management System
-
-This is a simple Java program implementing a library management system. It allows users to add and remove books, manage patrons, borrow and return books, and displays information about available books and patrons.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [How to Run](#how-to-run)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Overview
-
-The library management system consists of three main classes: `patron`, `patronManagement`, and various book classes (`Book`, `FictionBook`, `NonFictionBook`). Patrons can borrow and return books, and the system maintains a list of available books and patrons.
 
 ## Features
 
@@ -68,12 +60,11 @@ The library management system consists of three main classes: `patron`, `patronM
 
 Follow the on-screen instructions to interact with the library management system. You can add and remove books, manage patrons, borrow and return books, and display information about the library.
 
+
 ## Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Please follow the [code of conduct](CODE_OF_CONDUCT.md).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 
