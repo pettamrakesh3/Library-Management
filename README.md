@@ -19,4 +19,4 @@ Choose any option in managing Library System <br/>
 8. Return a book (select patron, then select book). <br/>
 9. Exit the program.<br/>
 
-<img src="images/2.png"/>
+<img src="images/2.png" alt="images"/>
