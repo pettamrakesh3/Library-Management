@@ -59,7 +59,7 @@ It having the fallowing Functions.
 
 Follow the on-screen instructions to interact with the library management system. You can add and remove books, manage patrons, borrow and return books, and display information about the library.
 
-- ![Images]("./images/2.png")
+- ![Images](["./images/2.png"](https://github.com/pettamrakesh3/Library-Management/blob/a3ac767efaaacf5d31b61087074250a0f97efdf3/images/2.png)https://github.com/pettamrakesh3/Library-Management/blob/a3ac767efaaacf5d31b61087074250a0f97efdf3/images/2.png)
 
 
 
