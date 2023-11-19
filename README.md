@@ -60,9 +60,7 @@ It having the fallowing Functions.
 Follow the on-screen instructions to interact with the library management system. You can add and remove books, manage patrons, borrow and return books, and display information about the library.
 
 
-## Contributing
 
-If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Please follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 
 
