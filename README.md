@@ -1,8 +1,8 @@
 # Library-Management
-Choose any option in managing Library System \n
-1.Add a new book. \n
-2. Remove a book.\n
-3. Display available books.\n
+Choose any option in managing Library System <br/>
+1.Add a new book. <br/>
+2. Remove a book.<br/>
+3. Display available books.<br/>
 4. Add a new patron.\n
 5. Remove a patron.\n
 6. Display patrons. \n
